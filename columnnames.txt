@@ -1,0 +1,1 @@
+columnNames <- c("FirstTwo", "eolTaxon", "eolID", "richnessScore", "numberReferences", "numberLanguages", "languageCounts", "NumberProviders", "ProviderIDs", "numberDataObjects", "DataObjectKinds", "IUCNstat", "pageLength")
